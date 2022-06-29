@@ -4,6 +4,7 @@
 I am an analytics professional with more than 3.5 years of experience in the field of Media and Healthcare Analytics combined. I recently graduated from the University of Washington with a Master of Science in Business Analytics. I am currently in Redmond, WA, and am open to relocation.
 
 Highlights:
+
 • Business Intelligence and Analytics Consultant (Intern) from June 2021 to June 2022 at CommonSpirit Health. Project manager for the student team for 6 months.
 
 • Experienced in collecting, combining, managing, and gathering insights from big data (for 21 states).
