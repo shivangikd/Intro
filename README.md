@@ -3,9 +3,9 @@
 
 I am an analytics professional with more than 5 years of experience in the field of Analytics. For the last 1.5+ years, I have been working as a Senior Data Scientist, Technology Consultant at Ernst & Young in AI & Data Team collaborating with top Financial Institutions. 
 
-I graduated from the University of Washington with a Master of Science in Business Analytics. 
+Prior to that, I graduated from the University of Washington with a Master of Science in Business Analytics with 3.98 GPA. 
 
-Highlights:
+##Highlights:
 
 • Business Intelligence and Analytics Consultant (Intern) from June 2021 to June 2022 at CommonSpirit Health. Project manager for the student team for 6 months.
 
