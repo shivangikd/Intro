@@ -1,7 +1,9 @@
 
 # Hello Everyone!
 
-I am an analytics professional with more than 3.5 years of experience in the field of Media and Healthcare Analytics combined. I recently graduated from the University of Washington with a Master of Science in Business Analytics. I am currently in Redmond, WA, and am open to relocation.
+I am an analytics professional with more than 5 years of experience in the field of Analytics. For the last 1.5+ years, I have been working as a Senior Data Scientist, Technology Consultant at Ernst & Young in AI & Data Team collaborating with top Financial Institutions. 
+
+I graduated from the University of Washington with a Master of Science in Business Analytics. 
 
 Highlights:
 
